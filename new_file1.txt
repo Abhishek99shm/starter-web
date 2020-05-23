@@ -1,4 +1,4 @@
-- Arjas Steel NCT update
+-teel NCT update
   *Had a call with the client to explain the backup process
   *Demonstrated how to create users and how to track the users activity.
   *Responded to the queries shared by client as part of the feedback.
