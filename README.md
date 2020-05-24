@@ -4,4 +4,7 @@ This is my first edit that I am going to commit.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is my second edit. This will be in staging area only.
+
+## Last Section
+This change will be in working directory only
