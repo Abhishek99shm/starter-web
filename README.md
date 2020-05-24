@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is my first edit that I am going to commit.
 
 ## Purpose
 
